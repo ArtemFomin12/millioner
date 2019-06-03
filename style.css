@@ -1,0 +1,55 @@
+.block{
+	background: black;
+}
+.win{
+	background: red;
+	display: flex;
+}
+.pomos{
+	background: orange;
+	width: 200px;
+	height: 50px;
+}
+.pom{
+	width: 55px;
+	height: 45px;
+	background: yellow;
+	border: none;
+}
+.text2{
+	background: blue;
+	width: 200px;
+	margin-top: 10px;
+}
+.won{
+	width: 200px;
+	height: 610px;
+	background: green;
+	margin-left: 500px
+}
+img{
+	width: 420px;
+	height: 420px;
+	margin-top: 100px
+}
+.what{
+	margin-top: 30px;
+}
+.text{
+	height: 200px;
+	background: purple;
+}
+.otv{
+	height: 200px;
+	background: pink;
+	display: flex;
+}
+.btn{
+	width: 200px;
+	height: 50px;
+	background: black;
+	margin-top: 30px;
+	color: white;
+	border: none;
+	margin-left: 100px;
+}
